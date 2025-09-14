@@ -1,0 +1,79 @@
+[
+  {
+    "Code": "EDU-221-53",
+    "Name": "\u00C9tica Profesional ",
+    "Schedule": "Mi\u00E9rcoles 5:00PM a 6:00PM",
+    "Teacher": "Mayelin Yarisa Roberto",
+    "IsMale": false,
+    "PhoneNumber": "8099331500",
+    "Extension": "4004",
+    "Email": "mroberto@uce.edu.do",
+    "TeamsLink": "https://teams.microsoft.com/l/channel/19%3A3Gdr7rrUXNjtKkfENeI5-PXu-nqOar_HleE_Bt9GVG81%40thread.tacv2/General?groupId=7330f254-e5a7-47f8-844e-89008dca6b5e\u0026tenantId=13a8ee8e-bf15-4b98-800d-5ff71ab303ae"
+  },
+  {
+    "Code": "FIS-301-50",
+    "Name": "Fisica l",
+    "Schedule": "Sabados 1:00PM a 4:00PM",
+    "Teacher": "Jose Luis Garcia",
+    "IsMale": true,
+    "PhoneNumber": "",
+    "Extension": "",
+    "Email": "",
+    "TeamsLink": "http://appmsteamsgroups.azurewebsites.net/MicrosoftTeams/IngresarMiembroTeams?email=ac2025-1955@uce.edu.do&idGrupo=643718"
+  },
+  {
+    "Code": "FIS-301-L-50",
+    "Name": "Fisica l Laboratorio",
+    "Schedule": "Sabados 8:00AM a 10:00AM",
+    "Teacher": "Jose Luis Garcia",
+    "IsMale": true,
+    "PhoneNumber": "",
+    "Extension": "",
+    "Email": "jlgarcia@uce.edu.do",
+    "TeamsLink": "http://appmsteamsgroups.azurewebsites.net/MicrosoftTeams/IngresarMiembroTeams?email=ac2025-1955@uce.edu.do&idGrupo=643718"
+  },
+  {
+    "Code": "IDI-051-90",
+    "Name": "Ingl\u00E9s B\u00E1sico l",
+    "Schedule": "",
+    "Teacher": "",
+    "IsMale": false,
+    "PhoneNumber": "",
+    "Extension": "",
+    "Email": "",
+    "TeamsLink": ""
+  },
+  {
+    "Code": "LET-012-52",
+    "Name": "Letras ll",
+    "Schedule": "Miercoles 7:00PM a 9:00PM",
+    "Teacher": "",
+    "IsMale": false,
+    "PhoneNumber": "",
+    "Extension": "",
+    "Email": "",
+    "TeamsLink": ""
+  },
+  {
+    "Code": "MAT-511-51",
+    "Name": "Estad\u00EDstica l",
+    "Schedule": "Jueves 5:00PM a 7:00PM",
+    "Teacher": "",
+    "IsMale": false,
+    "PhoneNumber": "",
+    "Extension": "",
+    "Email": "",
+    "TeamsLink": ""
+  },
+  {
+    "Code": "Mat-212-50",
+    "Name": "Calculo Diferencial y Geometr\u00EDa Anal\u00EDtica ",
+    "Schedule": "Jueves 7:00PM a 9:00PM",
+    "Teacher": "Edwin Manuel Frias",
+    "IsMale": true,
+    "PhoneNumber": "8094409144",
+    "Extension": "",
+    "Email": "emfrias@uce.edu.do",
+    "TeamsLink": ""
+  }
+]
